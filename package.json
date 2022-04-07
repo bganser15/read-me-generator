@@ -1,0 +1,22 @@
+{
+  "name": "read-me-generator",
+  "version": "1.0.0",
+  "description": "Command line interface to create README files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bganser15/read-me-generator.git"
+  },
+  "author": "Brittany Ganser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bganser15/read-me-generator/issues"
+  },
+  "homepage": "https://github.com/bganser15/read-me-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
