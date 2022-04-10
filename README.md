@@ -1,8 +1,8 @@
 
-# Sample Title
+# vre
 
-  ![Apache License 2.0](https://img.shields.io/badge/license-Apache_License_2.0-blue)
-    
+   ![MIT License](https://img.shields.io/badge/license-MIT-yellow)
+   
 ******
 ## Table of Contents
 - [Description](#description)
@@ -14,25 +14,25 @@
 - [Questions](#questions)
 ## Description <a name="description"></a>
 ******
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ver
 ## Usage <a name="usage"></a>
 ******
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+v
 ## License <a name="license"></a>
 ******
 
-  Licensed under the *[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)*
-    
+  Licensed under the *[MIT License](https://opensource.org/licenses/MIT)*
+   
 ## Install <a name="install"></a>
 ******
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+re
 ## Contributing <a name="contributing"></a>
 ******
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+v
 ## Test <a name="test"></a>
 ******
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+r
 ## Questions <a name="questions"></a>
 ******
-Any questions about this project, please email sample@email.com </br>
-View my Github profile at [githubUser](https://github.com/githubUser)
+Any questions about this project, please email v </br>
+View my Github profile at [v](https://github.com/v)
