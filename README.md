@@ -20,4 +20,5 @@ https://www.npmjs.com/package/inquirer
 
 ## Demo
 
-<video src='./demo/read-me-generator-walkthrough.mp4' width=600>
+https://user-images.githubusercontent.com/95111100/162635179-b2af7090-8ed0-4edd-849e-e3a484192992.mp4
+
